@@ -1,6 +1,6 @@
 # AS5600-Testing-Rig
 
-To see instructions on 3D printing and assembly of the structure please open the pdf which has images of the full assembly CAD as well as the assembly in real life. 
+To see instructions on 3D printing and assembly of the structure please open the pdf (AS5600 Sensor Test Rig.pdf) which has images of the full assembly CAD as well as the assembly in real life. 
 
 SolidWorks part files and accompanying .STL files for 3D printing of a structure to help with testing and probing of the AS5600 sensor. 
 
